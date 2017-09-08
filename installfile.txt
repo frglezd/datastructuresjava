@@ -1,0 +1,1 @@
+ java -Dvim.files=/Users/rmachine/.vim -Declipse.home=/Applications/Eclipse.app/Contents/Eclipse -jar ~/Downloads/eclim_2.7.0.jar install
