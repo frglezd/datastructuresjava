@@ -6,6 +6,8 @@ class Distancia{
         return Math.sqrt(Math.pow(x2-x1, 2) + Math.pow(y2-y1, 2));
     }
 
+    System.out.println(
+
     public static void main(String[] args){
         System.out.println(distancia(1,2,4,6));
     }
