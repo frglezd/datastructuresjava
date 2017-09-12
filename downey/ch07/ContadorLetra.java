@@ -4,12 +4,14 @@ class ContadorLetra{
 
     
     
-    public static void contarLetras(){
-        Scanner sc = new Scanner(System.in);
+    private static Scanner scanner;
+
+	public static void contarLetras(){
         System.out.print("Ingrese palabra:");
-        String palabra = sc.nextLine();
+        scanner = new Scanner(System.in);
+		String palabra = scanner.nextLine();
         System.out.print("Ingrese letra a buscar:");
-        char letra = sc.next().charAt(0);
+        char letra = scanner.next().charAt(0);
         int largo = palabra.length();
         int contador = 0;
 

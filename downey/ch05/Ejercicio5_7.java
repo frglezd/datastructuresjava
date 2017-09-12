@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class Ejercicio5_7{
     public static void main(String[] args){
