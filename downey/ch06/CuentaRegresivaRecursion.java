@@ -1,6 +1,6 @@
-import java.util.*;
 
-class CuentaRegresiva{
+
+class CuentaRegresivaRecursion{
 
     public static void cuentaRegresiva(int n){
         while(n>0){

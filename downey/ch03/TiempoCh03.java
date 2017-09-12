@@ -1,6 +1,6 @@
-import java.util.*;
 
-class Tiempo{
+
+class TiempoCh03{
     
     public static void imprimirTiempo(int hora, int minuto){
         System.out.print(hora);

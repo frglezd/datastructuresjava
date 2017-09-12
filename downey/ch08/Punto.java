@@ -31,8 +31,7 @@ class Punto{
     }
 
     public static void main(String[] args){
-       int a  = 5;
-        Point p1 = new Point(3,5);
+       Point p1 = new Point(3,5);
         Point p2 = new Point(5,3);
         Rectangle caja = new Rectangle(0, 0, 100, 200);
         imprimirPunto(p1);

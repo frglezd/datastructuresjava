@@ -2,10 +2,12 @@ import java.util.*;
 
 class RaizCuadrada{
 
-    public static double raizCuadrada(double x){
+    private static Scanner sc;
+
+	public static double raizCuadrada(double x){
         
         double temp, a;
-        Scanner sc = new Scanner(System.in);
+        sc = new Scanner(System.in);
         System.out.print("Ingrese un valor inicial:");
         double xi = sc.nextDouble();
        

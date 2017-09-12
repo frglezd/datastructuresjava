@@ -1,6 +1,6 @@
 import java.awt.*;
 
-class distancia {
+class DistanciaCh08{
 
 	public static double distancia(Point p1, Point p2) {
 		int dx = p1.x - p2.x;

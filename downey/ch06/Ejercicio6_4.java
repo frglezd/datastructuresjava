@@ -1,4 +1,3 @@
-import java.util.*;
 
 class Ejercicio6_4{
 

@@ -1,6 +1,6 @@
-import java.util.*;
 
-class TablaMultiplicacion{
+
+class TablaMultiplicacion2{
 
     public static void mult(){
         int i = 1;
