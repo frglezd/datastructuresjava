@@ -28,6 +28,13 @@ public class Arreglo {
 		return contador;
 	}
 	
+	public static int sumaArreglo(int[] a){
+		int acc = 0;
+		for(int i= 0; i < a.length; i++) {
+			acc += a[i];
+		}
+		return acc;
+	}
 	public static void main(String[] args){
 	
 		int[] cuenta = new int[3];
@@ -37,7 +44,7 @@ public class Arreglo {
 		
 		
 		System.out.println(enRango(histograma, 50, 70));
-		
+		System.out.println(sumaArreglo(histograma));
 	}
 
 }
