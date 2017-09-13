@@ -1,0 +1,14 @@
+
+public class Arreglo {
+	
+	public static void main(String[] args){
+		int[] cuenta;
+		double[] valores;
+		
+		cuenta = new int[3];
+		for(int i = 0; i < cuenta.length; i++){
+			System.out.println(cuenta[i]);
+		}
+	}
+
+}

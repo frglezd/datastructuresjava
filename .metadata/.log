@@ -1,0 +1,271 @@
+!SESSION 2017-09-12 15:57:35.621 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_141
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_MX
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-09-12 15:58:00.547
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.547
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.547
+!MESSAGE Software being installed: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.547
+!MESSAGE Software currently installed: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.547
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.547
+!MESSAGE Eclipse Workbench User Guide 3.7.0.v20110601-0800 (org.eclipse.platform.doc.user 3.7.0.v20110601-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.547
+!MESSAGE Eclipse Workbench User Guide 3.8.0.dist (org.eclipse.platform.doc.user 3.8.0.dist)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.547
+!MESSAGE Eclipse Workbench User Guide 3.7.1.r372_v20111202 (org.eclipse.platform.doc.user 3.7.1.r372_v20111202)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.547
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.547
+!MESSAGE From: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.547
+!MESSAGE To: org.eclipse.platform.feature.group 3.8.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.547
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.547
+!MESSAGE From: Eclipse Platform 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q (org.eclipse.platform.feature.group 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.547
+!MESSAGE To: org.eclipse.platform.doc.user [3.7.1.r372_v20111202]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.547
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.547
+!MESSAGE From: Eclipse Platform 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9 (org.eclipse.platform.feature.group 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.547
+!MESSAGE To: org.eclipse.platform.doc.user [3.8.0.dist]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.547
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.548
+!MESSAGE From: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.548
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-09-12 15:58:00.651
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.651
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.651
+!MESSAGE Software being installed: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.651
+!MESSAGE Software currently installed: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.651
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.651
+!MESSAGE Eclipse Workbench User Guide 3.7.0.v20110601-0800 (org.eclipse.platform.doc.user 3.7.0.v20110601-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.651
+!MESSAGE Eclipse Workbench User Guide 3.8.0.dist (org.eclipse.platform.doc.user 3.8.0.dist)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.651
+!MESSAGE Eclipse Workbench User Guide 3.7.1.r372_v20111202 (org.eclipse.platform.doc.user 3.7.1.r372_v20111202)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.651
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.651
+!MESSAGE From: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.651
+!MESSAGE To: org.eclipse.platform.feature.group 3.8.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.651
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.651
+!MESSAGE From: Eclipse Platform 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q (org.eclipse.platform.feature.group 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.652
+!MESSAGE To: org.eclipse.platform.doc.user [3.7.1.r372_v20111202]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.652
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.652
+!MESSAGE From: Eclipse Platform 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9 (org.eclipse.platform.feature.group 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.652
+!MESSAGE To: org.eclipse.platform.doc.user [3.8.0.dist]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:00.652
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.652
+!MESSAGE From: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:00.652
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q]
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2017-09-12 15:58:00.722
+!MESSAGE There were no installable units selected when the plan was computed.
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2017-09-12 15:58:00.730
+!MESSAGE There were no installable units selected when the plan was computed.
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2017-09-12 15:58:00.736
+!MESSAGE There were no installable units selected when the plan was computed.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-09-12 15:58:24.468
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.468
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.468
+!MESSAGE Software being installed: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE Software currently installed: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.469
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE Eclipse Workbench User Guide 3.7.0.v20110601-0800 (org.eclipse.platform.doc.user 3.7.0.v20110601-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE Eclipse Workbench User Guide 3.8.0.dist (org.eclipse.platform.doc.user 3.8.0.dist)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE Eclipse Workbench User Guide 3.7.1.r372_v20111202 (org.eclipse.platform.doc.user 3.7.1.r372_v20111202)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.469
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE From: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE To: org.eclipse.platform.feature.group 3.8.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.469
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE From: Eclipse Platform 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q (org.eclipse.platform.feature.group 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE To: org.eclipse.platform.doc.user [3.7.1.r372_v20111202]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.469
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE From: Eclipse Platform 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9 (org.eclipse.platform.feature.group 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE To: org.eclipse.platform.doc.user [3.8.0.dist]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.469
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE From: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.469
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-09-12 15:58:24.478
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.478
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE Software being installed: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE Software currently installed: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.478
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE Eclipse Workbench User Guide 3.7.0.v20110601-0800 (org.eclipse.platform.doc.user 3.7.0.v20110601-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE Eclipse Workbench User Guide 3.8.0.dist (org.eclipse.platform.doc.user 3.8.0.dist)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE Eclipse Workbench User Guide 3.7.1.r372_v20111202 (org.eclipse.platform.doc.user 3.7.1.r372_v20111202)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.478
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE From: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE To: org.eclipse.platform.feature.group 3.8.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.478
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE From: Eclipse Platform 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q (org.eclipse.platform.feature.group 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE To: org.eclipse.platform.doc.user [3.7.1.r372_v20111202]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.478
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE From: Eclipse Platform 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9 (org.eclipse.platform.feature.group 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE To: org.eclipse.platform.doc.user [3.8.0.dist]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:24.478
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE From: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:24.478
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-09-12 15:58:48.214
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.214
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE Software being installed: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE Software currently installed: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.214
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE Eclipse Workbench User Guide 3.7.0.v20110601-0800 (org.eclipse.platform.doc.user 3.7.0.v20110601-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE Eclipse Workbench User Guide 3.8.0.dist (org.eclipse.platform.doc.user 3.8.0.dist)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE Eclipse Workbench User Guide 3.7.1.r372_v20111202 (org.eclipse.platform.doc.user 3.7.1.r372_v20111202)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.214
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE From: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE To: org.eclipse.platform.feature.group 3.8.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.214
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE From: Eclipse Platform 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q (org.eclipse.platform.feature.group 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE To: org.eclipse.platform.doc.user [3.7.1.r372_v20111202]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.214
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE From: Eclipse Platform 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9 (org.eclipse.platform.feature.group 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE To: org.eclipse.platform.doc.user [3.8.0.dist]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.214
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE From: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.214
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-09-12 15:58:48.220
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.220
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.220
+!MESSAGE Software being installed: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.220
+!MESSAGE Software currently installed: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.220
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.220
+!MESSAGE Eclipse Workbench User Guide 3.7.0.v20110601-0800 (org.eclipse.platform.doc.user 3.7.0.v20110601-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.220
+!MESSAGE Eclipse Workbench User Guide 3.8.0.dist (org.eclipse.platform.doc.user 3.8.0.dist)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.220
+!MESSAGE Eclipse Workbench User Guide 3.7.1.r372_v20111202 (org.eclipse.platform.doc.user 3.7.1.r372_v20111202)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.221
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.221
+!MESSAGE From: Eclipse Plug-in Development Environment 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS (org.eclipse.pde.feature.group 3.8.2.v20130116-091538-7c7wFj0FFt6Zr9bd4AM1JEQMS)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.221
+!MESSAGE To: org.eclipse.platform.feature.group 3.8.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.221
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.221
+!MESSAGE From: Eclipse Platform 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q (org.eclipse.platform.feature.group 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.221
+!MESSAGE To: org.eclipse.platform.doc.user [3.7.1.r372_v20111202]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.221
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.221
+!MESSAGE From: Eclipse Platform 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9 (org.eclipse.platform.feature.group 3.8.1.dist-A8F8_IVRG4VZSCmeloKVfCrtIFotGyJZcMPL9)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.221
+!MESSAGE To: org.eclipse.platform.doc.user [3.8.0.dist]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-09-12 15:58:48.221
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.221
+!MESSAGE From: Eclipse Platform 3.7.2.M20120208-0800 (org.eclipse.platform.ide 3.7.2.M20120208-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-09-12 15:58:48.221
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-09-12 15:58:57.637
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10011 2017-09-12 15:58:57.637
+!MESSAGE "Object Teams Patch for JDT/Core" is not applicable to the current configuration and will not be installed.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-09-12 15:58:57.643
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10011 2017-09-12 15:58:57.644
+!MESSAGE "Object Teams Patch for JDT/Core" is not applicable to the current configuration and will not be installed.

@@ -1,0 +1,47 @@
+
+public class Racional {
+	
+	int numerador, denominador;
+	
+	//constructor sencillo del número racional
+	public Racional(){
+		this.numerador = 0;
+		this.denominador = 0;
+	}
+	
+	//constructor que toma los dos parámetros
+	public Racional(int numerador, int denominador){
+		this.numerador = numerador;
+		this.denominador = denominador;
+	}
+	public static void imprimirRacional(Racional r){
+		System.out.println(r.numerador + "/" + r.denominador);
+	}
+	
+	public static void invertirSigno(Racional r){
+		r.numerador = -1 * r.numerador;
+		imprimirRacional(r);
+	}
+	
+	public static void invertir(Racional r){
+		int temp = r.numerador;
+		r.numerador = r.denominador;
+		r.denominador = temp;
+		imprimirRacional(r);
+	}
+	
+	public static double aDouble(Racional r){
+		double numerador = r.numerador;
+		double denominador = r.denominador;
+		return numerador / denominador;
+	}
+	
+	public static void main(String[] args){
+		Racional r1 = new Racional(7,5);
+		imprimirRacional(r1);
+		invertirSigno(r1);
+		invertir(r1);
+		aDouble(r1);
+	}
+
+}

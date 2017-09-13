@@ -1,0 +1,23 @@
+
+public class Arreglo {
+	
+	public static void clonarArreglo(int[] a){
+		int[] b = new int[a.length];
+		
+		for(int i= 0; i < b.length; i++){
+			a[i] = b[i];
+		}
+	}
+	
+	public static void main(String[] args){
+	
+		int[] cuenta = new int[3];
+		cuenta[0] = 500;
+		clonarArreglo(cuenta);
+			
+		for(int i = 0; i < cuenta.length; i++){
+			System.out.println(b[i]);
+		}
+	}
+
+}
