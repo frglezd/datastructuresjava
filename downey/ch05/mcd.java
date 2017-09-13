@@ -1,7 +1,7 @@
 
 
 class mcd{
-
+/*
     public static double mcd(double a, double b){
 
         double r = a % b;
@@ -17,5 +17,5 @@ class mcd{
         System.out.println(mcd(4,2));
         System.out.println(mcd(36,20));
     }
-
+*/
 }
